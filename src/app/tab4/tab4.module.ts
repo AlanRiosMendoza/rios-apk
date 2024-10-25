@@ -17,4 +17,5 @@ import { Tab4PageRoutingModule } from './tab4-routing.module';
   ],
   declarations: [Tab4Page]
 })
-export class Tab3PageModule {}
+export class Tab4PageModule {}
+

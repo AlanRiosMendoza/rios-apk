@@ -1,0 +1,31 @@
+ion-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  ion-grid {
+    width: 100%;
+  }
+  
+  ion-row {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  ion-col {
+    text-align: center;
+  }
+  
+  ion-button {
+    display: block;
+    margin: 0 auto;
+    padding: 50px 30px;
+  }
+  
+  ion-label.days-difference {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+  }
