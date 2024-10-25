@@ -1,0 +1,36 @@
+ion-header {
+    text-align: center;
+  }
+  
+  ion-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 16px;
+  }
+  
+ion-card {
+    width: 100%;
+    max-width: 400px;
+    margin: 16px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+  .profile-image {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  ion-card-title, ion-card-subtitle {
+    text-align: center;
+  }
+  
+  ion-button {
+    display: block;
+    margin: 16px auto;
+    text-align: center;
+  }
