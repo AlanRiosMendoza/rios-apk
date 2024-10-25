@@ -1,0 +1,7 @@
+{
+  "name": "Rios APK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
