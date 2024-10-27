@@ -15,4 +15,4 @@ La función de esta app
 * **Calculadora de ecuaciones cuadráticas** se ingresa los coeficientes de la ecuación y nos da las respuestas de las ecuaciones.
 
 
-
+![alt text](image.png)
