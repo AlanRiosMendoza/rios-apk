@@ -14,6 +14,5 @@ La función de esta app
 
 * **Calculadora de ecuaciones cuadráticas** se ingresa los coeficientes de la ecuación y nos da las respuestas de las ecuaciones.
 
-# APK
-![APK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHvnyoyWI-FlgTfOWRoJjazD3ke1Q6hOgfQ&s)
+
 
